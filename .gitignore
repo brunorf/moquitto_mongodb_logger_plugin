@@ -1,0 +1,25 @@
+# Build artifacts
+*.so
+*.o
+*.a
+*.dylib
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
